@@ -1,0 +1,77 @@
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\cvextern.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_eye.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt2.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt_tree.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_default.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_core220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_imgproc220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Face Recognition.exe
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Face Recognition.pdb
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.UI.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.Util.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\ZedGraph.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.UI.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.Util.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\ZedGraph.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\obj\x64\Debug\ResolveAssemblyReference.cache
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Form1.resources
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Properties.Resources.resources
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Training_Form.resources
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\obj\x64\Debug\GenerateResource.read.1.tlog
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\obj\x64\Debug\GenerateResource.write.1.tlog
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.exe
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.pdb
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_video220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_objdetect220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\cudart64_32_16.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\npp64_32_16.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_calib3d220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_contrib220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_features2d220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_flann220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_gpu220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_highgui220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_legacy220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_ml220.dll
+G:\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.exe
+G:\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.pdb
+G:\Face Recognition\Face Recognition\bin\x64\Debug\cudart64_32_16.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\cvextern.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_eye.xml
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt.xml
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt2.xml
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt_tree.xml
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_default.xml
+G:\Face Recognition\Face Recognition\bin\x64\Debug\npp64_32_16.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_calib3d220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_contrib220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_core220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_features2d220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_flann220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_gpu220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_highgui220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_imgproc220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_legacy220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_ml220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_objdetect220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_video220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Face Recognition.exe
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Face Recognition.pdb
+G:\Face Recognition\Face Recognition\bin\x64\Debug\ZedGraph.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.xml
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.UI.xml
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.Util.xml
+G:\Face Recognition\Face Recognition\bin\x64\Debug\ZedGraph.xml
+G:\Face Recognition\Face Recognition\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+G:\Face Recognition\Face Recognition\obj\x64\Debug\ResolveAssemblyReference.cache
+G:\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Form1.resources
+G:\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Properties.Resources.resources
+G:\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Training_Form.resources
+G:\Face Recognition\Face Recognition\obj\x64\Debug\GenerateResource.read.1.tlog
+G:\Face Recognition\Face Recognition\obj\x64\Debug\GenerateResource.write.1.tlog
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.exe
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.pdb

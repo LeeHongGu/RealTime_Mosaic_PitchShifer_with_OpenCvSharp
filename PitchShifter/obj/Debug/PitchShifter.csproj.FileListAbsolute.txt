@@ -1,0 +1,55 @@
+D:\다운로드\PitchShifter_1_0_0\PitchShifter\bin\Debug\test.mp3
+D:\다운로드\PitchShifter_1_0_0\PitchShifter\bin\Debug\PitchShifter.exe.config
+D:\다운로드\PitchShifter_1_0_0\PitchShifter\bin\Debug\PitchShifter.exe
+D:\다운로드\PitchShifter_1_0_0\PitchShifter\bin\Debug\PitchShifter.pdb
+D:\다운로드\PitchShifter_1_0_0\PitchShifter\bin\Debug\CSCore.dll
+D:\다운로드\PitchShifter_1_0_0\PitchShifter\obj\Debug\PitchShifter.csprojAssemblyReference.cache
+D:\다운로드\PitchShifter_1_0_0\PitchShifter\obj\Debug\PitchShifter.MainForm.resources
+D:\다운로드\PitchShifter_1_0_0\PitchShifter\obj\Debug\PitchShifter.Properties.Resources.resources
+D:\다운로드\PitchShifter_1_0_0\PitchShifter\obj\Debug\PitchShifter.csproj.GenerateResource.cache
+D:\다운로드\PitchShifter_1_0_0\PitchShifter\obj\Debug\PitchShifter.csproj.CoreCompileInputs.cache
+D:\다운로드\PitchShifter_1_0_0\PitchShifter\obj\Debug\PitchShifter.csproj.CopyComplete
+D:\다운로드\PitchShifter_1_0_0\PitchShifter\obj\Debug\PitchShifter.exe
+D:\다운로드\PitchShifter_1_0_0\PitchShifter\obj\Debug\PitchShifter.pdb
+D:\2021_1학기_창의융합설계\PitchShifter (2)\bin\Debug\test.mp3
+D:\2021_1학기_창의융합설계\PitchShifter (2)\bin\Debug\PitchShifter.exe.config
+D:\2021_1학기_창의융합설계\PitchShifter (2)\bin\Debug\PitchShifter.exe
+D:\2021_1학기_창의융합설계\PitchShifter (2)\bin\Debug\PitchShifter.pdb
+D:\2021_1학기_창의융합설계\PitchShifter (2)\bin\Debug\CSCore.dll
+D:\2021_1학기_창의융합설계\PitchShifter (2)\obj\Debug\PitchShifter.csprojAssemblyReference.cache
+D:\2021_1학기_창의융합설계\PitchShifter (2)\obj\Debug\PitchShifter.MainForm.resources
+D:\2021_1학기_창의융합설계\PitchShifter (2)\obj\Debug\PitchShifter.Properties.Resources.resources
+D:\2021_1학기_창의융합설계\PitchShifter (2)\obj\Debug\PitchShifter.csproj.GenerateResource.cache
+D:\2021_1학기_창의융합설계\PitchShifter (2)\obj\Debug\PitchShifter.csproj.CoreCompileInputs.cache
+D:\2021_1학기_창의융합설계\PitchShifter (2)\obj\Debug\PitchShifter.csproj.CopyComplete
+D:\2021_1학기_창의융합설계\PitchShifter (2)\obj\Debug\PitchShifter.exe
+D:\2021_1학기_창의융합설계\PitchShifter (2)\obj\Debug\PitchShifter.pdb
+D:\2021_1학기_창의융합설계\PitchShifter (2)\bin\Debug\CSCore.xml
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation--cscore-emgucv-\PitchShifter\bin\Debug\test.mp3
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation--cscore-emgucv-\PitchShifter\bin\Debug\PitchShifter.exe.config
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation--cscore-emgucv-\PitchShifter\bin\Debug\PitchShifter.exe
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation--cscore-emgucv-\PitchShifter\bin\Debug\PitchShifter.pdb
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation--cscore-emgucv-\PitchShifter\bin\Debug\CSCore.dll
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation--cscore-emgucv-\PitchShifter\bin\Debug\CSCore.xml
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation--cscore-emgucv-\PitchShifter\obj\Debug\PitchShifter.csprojAssemblyReference.cache
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation--cscore-emgucv-\PitchShifter\obj\Debug\PitchShifter.MainForm.resources
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation--cscore-emgucv-\PitchShifter\obj\Debug\PitchShifter.Properties.Resources.resources
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation--cscore-emgucv-\PitchShifter\obj\Debug\PitchShifter.csproj.GenerateResource.cache
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation--cscore-emgucv-\PitchShifter\obj\Debug\PitchShifter.csproj.CoreCompileInputs.cache
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation--cscore-emgucv-\PitchShifter\obj\Debug\PitchShifter.csproj.CopyComplete
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation--cscore-emgucv-\PitchShifter\obj\Debug\PitchShifter.exe
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation--cscore-emgucv-\PitchShifter\obj\Debug\PitchShifter.pdb
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\PitchShifter\bin\Debug\test.mp3
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\PitchShifter\bin\Debug\PitchShifter.exe.config
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\PitchShifter\bin\Debug\PitchShifter.exe
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\PitchShifter\bin\Debug\PitchShifter.pdb
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\PitchShifter\bin\Debug\CSCore.dll
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\PitchShifter\bin\Debug\CSCore.xml
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\PitchShifter\obj\Debug\PitchShifter.csprojAssemblyReference.cache
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\PitchShifter\obj\Debug\PitchShifter.MainForm.resources
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\PitchShifter\obj\Debug\PitchShifter.Properties.Resources.resources
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\PitchShifter\obj\Debug\PitchShifter.csproj.GenerateResource.cache
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\PitchShifter\obj\Debug\PitchShifter.csproj.CoreCompileInputs.cache
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\PitchShifter\obj\Debug\PitchShifter.csproj.CopyComplete
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\PitchShifter\obj\Debug\PitchShifter.exe
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\PitchShifter\obj\Debug\PitchShifter.pdb

@@ -1,0 +1,555 @@
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\cvextern.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_eye.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt2.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt_tree.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_default.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_core220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_imgproc220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Face Recognition.exe
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Face Recognition.pdb
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.UI.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.Util.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\ZedGraph.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.UI.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.Util.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\ZedGraph.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\obj\x64\Debug\ResolveAssemblyReference.cache
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Form1.resources
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Properties.Resources.resources
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Training_Form.resources
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\obj\x64\Debug\GenerateResource.read.1.tlog
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\obj\x64\Debug\GenerateResource.write.1.tlog
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.exe
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.pdb
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_video220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_objdetect220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\cudart64_32_16.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\npp64_32_16.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_calib3d220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_contrib220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_features2d220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_flann220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_gpu220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_highgui220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_legacy220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Face Recognition\Face Recognition\bin\x64\Debug\opencv_ml220.dll
+G:\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.exe
+G:\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.pdb
+G:\Face Recognition\Face Recognition\bin\x64\Debug\cudart64_32_16.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\cvextern.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_eye.xml
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt.xml
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt2.xml
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt_tree.xml
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_default.xml
+G:\Face Recognition\Face Recognition\bin\x64\Debug\npp64_32_16.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_calib3d220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_contrib220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_core220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_features2d220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_flann220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_gpu220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_highgui220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_imgproc220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_legacy220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_ml220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_objdetect220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\opencv_video220.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Face Recognition.exe
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Face Recognition.pdb
+G:\Face Recognition\Face Recognition\bin\x64\Debug\ZedGraph.dll
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.xml
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.UI.xml
+G:\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.Util.xml
+G:\Face Recognition\Face Recognition\bin\x64\Debug\ZedGraph.xml
+G:\Face Recognition\Face Recognition\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+G:\Face Recognition\Face Recognition\obj\x64\Debug\ResolveAssemblyReference.cache
+G:\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Form1.resources
+G:\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Properties.Resources.resources
+G:\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Training_Form.resources
+G:\Face Recognition\Face Recognition\obj\x64\Debug\GenerateResource.read.1.tlog
+G:\Face Recognition\Face Recognition\obj\x64\Debug\GenerateResource.write.1.tlog
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.exe
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.pdb
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\cudart64_32_16.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\cvextern.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt2.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt_tree.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_default.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\npp64_32_16.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_calib3d220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_contrib220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_core220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_features2d220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_flann220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_gpu220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_highgui220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_imgproc220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_legacy220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_ml220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_objdetect220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_video220.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Face Recognition.exe
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Face Recognition.pdb
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\ZedGraph.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.UI.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.Util.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\ZedGraph.xml
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\ResolveAssemblyReference.cache
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Form1.resources
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Properties.Resources.resources
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Training_Form.resources
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\GenerateResource.read.1.tlog
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\GenerateResource.write.1.tlog
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.exe
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.pdb
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\cudart64_32_16.dll
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\cvextern.dll
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_eye.xml
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt.xml
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt2.xml
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt_tree.xml
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_default.xml
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\npp64_32_16.dll
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_calib3d220.dll
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_contrib220.dll
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_core220.dll
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_features2d220.dll
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_flann220.dll
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_gpu220.dll
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_highgui220.dll
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_imgproc220.dll
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_legacy220.dll
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_ml220.dll
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_objdetect220.dll
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\opencv_video220.dll
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Face Recognition.exe
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Face Recognition.pdb
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\ZedGraph.dll
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.xml
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.UI.xml
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.Util.xml
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\ZedGraph.xml
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Form1.resources
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Properties.Resources.resources
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Training_Form.resources
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\GenerateResource.read.1 (CIJTechsystemWS).tlog
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\GenerateResource.read.1.tlog
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\GenerateResource.write.1 (CIJTechsystemWS).tlog
+D:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\GenerateResource.write.1.tlog
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\GenerateResource.read.1 (CIJTechsystemWS).tlog
+H:\Live Mesh\Visual Studio 2010\Projects\Personal\Face Recognition\Face Recognition\obj\x64\Debug\GenerateResource.write.1 (CIJTechsystemWS).tlog
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\obj\x64\Debug\Face Recognition.exe
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\obj\x64\Debug\Face Recognition.pdb
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\cudart64_32_16.dll
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\cvextern.dll
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt.xml
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt2.xml
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt_tree.xml
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_default.xml
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\npp64_32_16.dll
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_calib3d220.dll
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_contrib220.dll
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_core220.dll
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_features2d220.dll
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_flann220.dll
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_gpu220.dll
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_highgui220.dll
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_imgproc220.dll
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_legacy220.dll
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_ml220.dll
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_objdetect220.dll
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_video220.dll
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\Face Recognition.exe
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\Face Recognition.pdb
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\ZedGraph.dll
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\Emgu.CV.xml
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\Emgu.CV.UI.xml
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\Emgu.Util.xml
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\ZedGraph.xml
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\obj\x64\Debug\ResolveAssemblyReference.cache
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\obj\x64\Debug\Face_Recognition.Form1.resources
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\obj\x64\Debug\Face_Recognition.Properties.Resources.resources
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\obj\x64\Debug\Face_Recognition.Training_Form.resources
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\obj\x64\Debug\GenerateResource.read.1 (CIJTechsystemWS).tlog
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\obj\x64\Debug\GenerateResource.read.1.tlog
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\obj\x64\Debug\GenerateResource.write.1 (CIJTechsystemWS).tlog
+H:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\obj\x64\Debug\GenerateResource.write.1.tlog
+D:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\obj\x64\Debug\Face Recognition.exe
+D:\Live Mesh\Publication\Face Detection\Face Recognition x64\Face Recognition\obj\x64\Debug\Face Recognition.pdb
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\obj\x64\Debug\Face Recognition.exe
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\obj\x64\Debug\Face Recognition.pdb
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\obj\x64\Debug\ResolveAssemblyReference.cache
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\obj\x64\Debug\Face_Recognition.Form1.resources
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\obj\x64\Debug\Face_Recognition.Properties.Resources.resources
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\obj\x64\Debug\Face_Recognition.Training_Form.resources
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\obj\x64\Debug\GenerateResource.read.1 (CIJTechsystemWS) (CIJTechsystemWS).tlog
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\obj\x64\Debug\GenerateResource.read.1 (CIJTechsystemWS).tlog
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\obj\x64\Debug\GenerateResource.read.1.tlog
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\obj\x64\Debug\GenerateResource.write.1 (CIJTechsystemWS).tlog
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\obj\x64\Debug\GenerateResource.write.1.tlog
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt.xml
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt2.xml
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt_tree.xml
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_default.xml
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\cublas64_42_9.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\cudart64_42_9.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\cufft64_42_9.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\cvextern.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\npp64_42_9.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_calib3d242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_contrib242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_core242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_features2d242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_ffmpeg242_64.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_flann242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_gpu242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_highgui242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_imgproc242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_legacy242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_ml242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_nonfree242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_objdetect242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_photo242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_stitching242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_video242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\opencv_videostab242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\Face Recognition.exe
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\Face Recognition.pdb
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\Emgu.CV.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\Emgu.CV.UI.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x64\Face Recognition\bin\x64\Debug\Emgu.Util.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\obj\x64\Debug\Face Recognition.exe
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\obj\x64\Debug\Face Recognition.pdb
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt.xml
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt2.xml
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_alt_tree.xml
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\Cascades\haarcascade_frontalface_default.xml
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\cublas32_42_9.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\cudart32_42_9.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\cufft32_42_9.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\cvextern.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\npp32_42_9.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\opencv_calib3d242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\opencv_contrib242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\opencv_core242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\opencv_features2d242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\opencv_ffmpeg242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\opencv_flann242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\opencv_gpu242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\opencv_highgui242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\opencv_imgproc242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\opencv_legacy242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\opencv_ml242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\opencv_nonfree242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\opencv_objdetect242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\opencv_photo242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\opencv_stitching242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\opencv_video242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\opencv_videostab242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\Face Recognition.exe
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\Face Recognition.pdb
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\Emgu.CV.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\Emgu.CV.UI.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x64\Debug\Emgu.Util.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\obj\x64\Debug\ResolveAssemblyReference.cache
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\obj\x64\Debug\Face_Recognition.Form1.resources
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\obj\x64\Debug\Face_Recognition.Properties.Resources.resources
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\obj\x64\Debug\Face_Recognition.Training_Form.resources
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\obj\x64\Debug\GenerateResource.read.1 (CIJTechsystemWS) (CIJTechsystemWS).tlog
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\obj\x64\Debug\GenerateResource.read.1 (CIJTechsystemWS).tlog
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\obj\x64\Debug\GenerateResource.read.1.tlog
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\obj\x64\Debug\GenerateResource.write.1 (CIJTechsystemWS).tlog
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\obj\x64\Debug\GenerateResource.write.1.tlog
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\Cascades\haarcascade_frontalface_alt.xml
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\Cascades\haarcascade_frontalface_alt2.xml
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\Cascades\haarcascade_frontalface_alt_tree.xml
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\Cascades\haarcascade_frontalface_default.xml
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\cublas32_42_9.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\cudart32_42_9.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\cufft32_42_9.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\cvextern.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\npp32_42_9.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\opencv_calib3d242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\opencv_contrib242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\opencv_core242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\opencv_features2d242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\opencv_ffmpeg242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\opencv_flann242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\opencv_gpu242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\opencv_highgui242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\opencv_imgproc242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\opencv_legacy242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\opencv_ml242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\opencv_nonfree242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\opencv_objdetect242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\opencv_photo242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\opencv_stitching242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\opencv_video242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\opencv_videostab242.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\Face Recognition.exe
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\Face Recognition.pdb
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\Emgu.CV.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\Emgu.CV.UI.dll
+H:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\bin\x86\Emgu.Util.dll
+D:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\obj\x64\Debug\Face Recognition.exe
+D:\Live Mesh\Publication\Face Detection v2.4\Face Recognition x86\Face Recognition\obj\x64\Debug\Face Recognition.pdb
+H:\Live Mesh\Publication\Face Detection v2.5\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face Recognition.exe
+H:\Live Mesh\Publication\Face Detection v2.5\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face Recognition.pdb
+H:\Live Mesh\Publication\Face Detection v2.5\Face Recognition 2.4.9\Face Recognition\bin\x86\Face Recognition.exe
+H:\Live Mesh\Publication\Face Detection v2.5\Face Recognition 2.4.9\Face Recognition\bin\x86\Face Recognition.pdb
+H:\Live Mesh\Publication\Face Detection v2.5\Face Recognition 2.4.9\Face Recognition\bin\x86\Emgu.CV.dll
+H:\Live Mesh\Publication\Face Detection v2.5\Face Recognition 2.4.9\Face Recognition\bin\x86\Emgu.CV.UI.dll
+H:\Live Mesh\Publication\Face Detection v2.5\Face Recognition 2.4.9\Face Recognition\bin\x86\Emgu.Util.dll
+H:\Live Mesh\Publication\Face Detection v2.5\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face Recognition.csprojResolveAssemblyReference.cache
+H:\Live Mesh\Publication\Face Detection v2.5\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face_Recognition.Form1.resources
+H:\Live Mesh\Publication\Face Detection v2.5\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face_Recognition.Properties.Resources.resources
+H:\Live Mesh\Publication\Face Detection v2.5\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face_Recognition.Training_Form.resources
+H:\Live Mesh\Publication\Face Detection v2.5\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face Recognition.csproj.GenerateResource.Cache
+H:\Live Mesh\Publication\Face Detection v2.5\Face Recognition 2.4.9\Face Recognition\bin\Debug\Cascades\haarcascade_frontalface_default.xml
+H:\Live Mesh\Publication\Face Detection v2.5\Face Recognition 2.4.9\Face Recognition\bin\Debug\Face Recognition.exe
+H:\Live Mesh\Publication\Face Detection v2.5\Face Recognition 2.4.9\Face Recognition\bin\Debug\Face Recognition.pdb
+H:\Live Mesh\Publication\Face Detection v2.5\Face Recognition 2.4.9\Face Recognition\bin\Debug\Emgu.CV.dll
+H:\Live Mesh\Publication\Face Detection v2.5\Face Recognition 2.4.9\Face Recognition\bin\Debug\Emgu.CV.UI.dll
+H:\Live Mesh\Publication\Face Detection v2.5\Face Recognition 2.4.9\Face Recognition\bin\Debug\Emgu.Util.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face Recognition.exe
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face Recognition.pdb
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\Cascades\haarcascade_frontalface_default.xml
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\Face Recognition.exe
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\Face Recognition.pdb
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\Emgu.CV.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\Emgu.CV.UI.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\Emgu.Util.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face Recognition.csprojResolveAssemblyReference.cache
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face_Recognition.Form1.resources
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face_Recognition.Properties.Resources.resources
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face_Recognition.Training_Form.resources
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face Recognition.csproj.GenerateResource.Cache
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\cublas64_50_35.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\cudart64_50_35.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\cufft64_50_35.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\cvextern.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\cvextern_test.exe
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\npp64_50_35.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_calib3d249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_contrib249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_core249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_features2d249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_ffmpeg249_64.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_flann249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_gpu249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_highgui249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_imgproc249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_legacy249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_ml249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_nonfree249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_objdetect249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_photo249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_stitching249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_video249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_videostab249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\cublas32_50_35.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\cudart32_50_35.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\cufft32_50_35.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\cvextern.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\Emgu.CV.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\Emgu.CV.UI.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\Emgu.Util.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\npp32_50_35.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_calib3d249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_contrib249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_core249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_features2d249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_ffmpeg249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_flann249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_gpu249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_highgui249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_imgproc249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_legacy249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_ml249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_nonfree249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_objdetect249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_photo249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_stitching249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_video249.dll
+H:\Live Mesh\Publication\Face Detection v2.5 - Copy\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_videostab249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\Cascades\haarcascade_frontalface_default.xml
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\cublas64_50_35.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\cudart64_50_35.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\cufft64_50_35.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\cvextern.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\cvextern_test.exe
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\npp64_50_35.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_calib3d249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_contrib249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_core249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_features2d249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_ffmpeg249_64.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_flann249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_gpu249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_highgui249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_imgproc249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_legacy249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_ml249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_nonfree249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_objdetect249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_photo249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_stitching249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_video249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x64\opencv_videostab249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\cublas32_50_35.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\cudart32_50_35.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\cufft32_50_35.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\cvextern.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\Emgu.CV.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\Emgu.CV.UI.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\Emgu.Util.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\npp32_50_35.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_calib3d249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_contrib249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_core249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_features2d249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_ffmpeg249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_flann249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_gpu249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_highgui249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_imgproc249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_legacy249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_ml249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_nonfree249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_objdetect249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_photo249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_stitching249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_video249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\x86\opencv_videostab249.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\Face Recognition.exe
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\Face Recognition.pdb
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\Emgu.CV.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\Emgu.CV.UI.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\Emgu.Util.dll
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face Recognition.csprojAssemblyReference.cache
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face_Recognition.Form1.resources
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face_Recognition.Properties.Resources.resources
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face_Recognition.Training_Form.resources
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face Recognition.csproj.GenerateResource.cache
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face Recognition.csproj.CoreCompileInputs.cache
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face Recognition.csproj.CopyComplete
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face Recognition.exe
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\obj\x64\Debug\Face Recognition.pdb
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\Cascades\haarcascade_frontalface_alt.xml
+D:\2021_1학기_창의융합설계\Face Recognition 2.4.9\Face Recognition 2.4.9\Face Recognition\bin\Debug\Face Recognition.exe.config
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\Cascades\haarcascade_frontalface_alt.xml
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\Cascades\haarcascade_frontalface_default.xml
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\Face Recognition.exe.config
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\Face Recognition.exe
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\Face Recognition.pdb
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\OpenCvSharp.dll
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\OpenCvSharp.Extensions.dll
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\OpenCvSharp.WpfExtensions.dll
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\System.Buffers.dll
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\System.Drawing.Common.dll
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\System.Memory.dll
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\System.Numerics.Vectors.dll
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\System.ValueTuple.dll
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\OpenCvSharp.xml
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\OpenCvSharp.Extensions.xml
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\OpenCvSharp.WpfExtensions.xml
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\System.Buffers.xml
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\System.Memory.xml
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\System.Numerics.Vectors.xml
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\bin\Debug\System.ValueTuple.xml
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\obj\x64\Debug\Face Recognition.csprojAssemblyReference.cache
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\obj\x64\Debug\Face_Recognition.Form1.resources
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\obj\x64\Debug\Face_Recognition.Properties.Resources.resources
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\obj\x64\Debug\Face_Recognition.Training_Form.resources
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\obj\x64\Debug\Face Recognition.csproj.GenerateResource.cache
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\obj\x64\Debug\Face Recognition.csproj.CoreCompileInputs.cache
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\obj\x64\Debug\Face Recognition.csproj.CopyComplete
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\obj\x64\Debug\Face Recognition.exe
+D:\다운로드\Face Recognition 2.4.9 (2)\Face Recognition\obj\x64\Debug\Face Recognition.pdb
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\Cascades\haarcascade_frontalface_alt.xml
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\Cascades\haarcascade_frontalface_default.xml
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\Face Recognition.exe.config
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\Face Recognition.exe
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\Face Recognition.pdb
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\OpenCvSharp.dll
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\System.Buffers.dll
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\System.Drawing.Common.dll
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\System.Memory.dll
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\System.ValueTuple.dll
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\OpenCvSharp.xml
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\System.Buffers.xml
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\System.Memory.xml
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\bin\Debug\System.ValueTuple.xml
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.csprojAssemblyReference.cache
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Form1.resources
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Properties.Resources.resources
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Training_Form.resources
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.csproj.GenerateResource.cache
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.csproj.CoreCompileInputs.cache
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.csproj.CopyComplete
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.exe
+C:\Users\LeeHonggu\Documents\GitHub\-real-time-mosaic-and-voice-modulation-cscore-opencvsharp\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.pdb
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\Cascades\haarcascade_frontalface_alt.xml
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\Cascades\haarcascade_frontalface_default.xml
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\Face Recognition.exe.config
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\Face Recognition.exe
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\Face Recognition.pdb
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\OpenCvSharp.dll
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\System.Buffers.dll
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\System.Drawing.Common.dll
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\System.Memory.dll
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\System.ValueTuple.dll
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\OpenCvSharp.xml
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\System.Buffers.xml
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\System.Memory.xml
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\bin\Debug\System.ValueTuple.xml
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.csprojAssemblyReference.cache
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Form1.resources
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Properties.Resources.resources
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Training_Form.resources
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.csproj.GenerateResource.cache
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.csproj.CoreCompileInputs.cache
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.csproj.CopyComplete
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.exe
+C:\Users\LeeHonggu\Documents\GitHub\RealTime_Mosaic_PitchShifer_with_OpenCvSharp\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.pdb

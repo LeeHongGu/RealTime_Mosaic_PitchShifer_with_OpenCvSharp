@@ -1,0 +1,243 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+using OpenCvSharp;
+
+namespace OpenCV_V1
+{
+    class PCA : IDisposable
+    {
+        #region 초기값
+        int nTrainFaces = 0;
+        int nEigens = 0;
+
+        IplImage result;
+        IplImage[] faceImgArr;
+        IplImage[] eigenVectArr;
+        IplImage pAvgTrainImg;
+        float[,] projectedTrainFaceMat;
+        float[] eigenValMat;
+        CvMat personNumTruthMat;
+
+        public void Dispose()
+        {
+            if (result != null) Cv.ReleaseImage(result);
+            if (!pAvgTrainImg.IsDisposed) pAvgTrainImg.Dispose();
+            if (!faceImgArr[0].IsDisposed)
+            {
+                for (int i = 0; i < nTrainFaces; i++)
+                {
+                    faceImgArr[i].Dispose();
+                }
+            }
+            if (!eigenVectArr[0].IsDisposed)
+            {
+                for (int i = 0; i < nEigens; i++)
+                    eigenVectArr[i].Dispose();
+            }
+            if (!personNumTruthMat.IsDisposed) Cv.ReleaseMat(personNumTruthMat);
+        }
+        #endregion
+
+        #region PCA 학습
+
+        public unsafe IplImage LearnPCA()
+        {
+            //학습할 이미지 사진 파일명을 나열한 텍스파일 읽기
+            nTrainFaces = loadFaceImgArray("train.txt");
+            if (nTrainFaces < 2)
+            {
+                //MessageBox.Show("데이타 파일이 잘못 되었슴");
+                return null;
+            }
+
+            doPCA();
+
+            projectedTrainFaceMat = new float[nTrainFaces, nEigens];
+            float[] tempProject = new float[nEigens];
+
+            for (int i = 0; i < nTrainFaces; i++)
+            {
+                Cv.EigenDecomposite(faceImgArr[i], eigenVectArr, pAvgTrainImg, tempProject);//projectedTrainFaceMat[i]);
+                projectedTrainFaceMat[i, 0] = tempProject[0];
+                projectedTrainFaceMat[i, 1] = tempProject[1];
+            }
+
+
+            storeTraingData();
+            return result;
+        }
+
+        private int loadFaceImgArray(String file)
+        {
+            //텍스트 파일에 나열되어진 파일명대로 이미지 읽어서 메모리에 저장하기   
+            int i = 0;
+            string[] lines = File.ReadAllLines(file); //학습할 파일명 획득
+            faceImgArr = new IplImage[lines.Length]; //학습할 얼굴 갯수만큼 메모리 확보
+
+            foreach (string line in lines) //텍스트 파일에서 읽은 파일명으로
+            {
+                faceImgArr[i] = new IplImage(lines[i], LoadMode.GrayScale); //사진이미지 읽어 오기
+                i++;
+            }
+            return lines.Length;
+
+        }
+
+        private unsafe void doPCA()
+        {
+            CvTermCriteria calcLimit;
+            CvSize faceImgSize;
+            nEigens = nTrainFaces - 1;
+
+            faceImgSize.Width = faceImgArr[0].Width;
+            faceImgSize.Height = faceImgArr[0].Height;
+
+            eigenVectArr = new IplImage[nEigens];
+
+            for (int i = 0; i < nEigens; i++)
+                eigenVectArr[i] = new IplImage(faceImgSize, BitDepth.F32, 1);
+
+            eigenValMat = new float[nEigens];
+            pAvgTrainImg = new IplImage(faceImgSize, BitDepth.F32, 1);
+            calcLimit = new CvTermCriteria(CriteriaType.Iteration, nEigens, 1);
+            Cv.CalcEigenObjects(faceImgArr, eigenVectArr, 0, calcLimit, pAvgTrainImg, eigenValMat);
+
+        }
+
+        //학습된 데이타 저장하기
+        private void storeTraingData()
+        {
+            int[] faceID = { 1, 2, 4, 5 };//사실은 텍스트 파일에 같이 써야 하지만 분리하기 귀찮아서
+            personNumTruthMat = new CvMat(1, nTrainFaces, MatrixType.S32C1, faceID);
+
+            using (CvFileStorage fs = new CvFileStorage("facedata.xml", null, FileStorageMode.Write))
+            using (CvMat eigen = new CvMat(1, nEigens, MatrixType.F32C1, eigenValMat))
+            using (CvMat projected = new CvMat(nTrainFaces, nEigens, MatrixType.F32C1, projectedTrainFaceMat))
+            {
+                fs.WriteInt("nEigens", nEigens);
+                fs.WriteInt("nTrainFaces", nTrainFaces);
+                fs.Write("trainPersonNumMat", personNumTruthMat);
+                fs.Write("eigenValMat", eigen);
+                fs.Write("projectedTrainFaceMat", projected);
+                fs.Write("avgTrainImg", pAvgTrainImg);
+
+                for (int i = 0; i < nEigens; i++)
+                {
+                    String varName = String.Format("eigenVect_{0}", i);
+                    fs.Write(varName, eigenVectArr[i]);
+                }
+                result = new IplImage(pAvgTrainImg.Size, BitDepth.U8, 1);
+                //Currentley, bitmap converter can read not only BitDeth.U8 but also 32F
+                Cv.CvtScale(pAvgTrainImg, result);
+            }
+        }
+        #endregion
+
+        #region PCA 인식
+
+        public unsafe String[] recognize()
+        {
+            String[] str;
+
+            int nTestFaces = 0; //비교할 이미지 숫자
+            CvMat trainPersonNumMat; //학습으로 저장된
+            float[] projectedTestFace;
+
+            nTestFaces = loadFaceImgArray("test.txt"); //얼굴갯수 리턴
+            projectedTestFace = new float[nEigens];
+
+            if (!loadTranningData(out trainPersonNumMat)) return null;
+
+            projectedTrainFaceMat = new float[trainPersonNumMat.Rows, trainPersonNumMat.Cols];//배열확보
+            float[] tempProject = new float[nEigens];
+
+            for (int i = 0; i < trainPersonNumMat.Rows; i++)
+                for (int j = 0; j < trainPersonNumMat.Cols; j++)
+                    projectedTrainFaceMat[i, j] = (float)Cv.mGet(trainPersonNumMat, i, j); //저장된 값 이동
+
+            str = new String[nTestFaces]; //비교할 파일 갯수 만큼
+
+            for (int i = 0; i < nTestFaces; i++)
+            {
+                int iNearest, nearest, truth;
+
+                Cv.EigenDecomposite(faceImgArr[i], eigenVectArr, pAvgTrainImg, tempProject);
+
+                iNearest = findNearestNeighbor(tempProject); //근접도
+                truth = (int)Cv.mGet(personNumTruthMat, 0, i); //실제 명기된 ID
+                nearest = (int)Cv.mGet(personNumTruthMat, 0, iNearest);
+
+                str[i] = String.Format("nearest ID ={0}, Real ID = {1}", nearest, truth);
+
+            }
+            return str;
+
+
+        }
+
+        private int findNearestNeighbor(float[] projecTestFace)
+        {
+            double leastDistSq = 1e12;// DBL_MAX;
+            int iTrain, iNearest = 0;
+
+            for (iTrain = 0; iTrain < nTrainFaces; iTrain++) //비교할 얼굴 갯수
+            {
+                double distSq = 0;
+
+                for (int i = 0; i < nEigens; i++)
+                {
+                    float d_i = projecTestFace[i] - projectedTrainFaceMat[iTrain, i];//학습 파일에서 읽은 값과
+                    //distSq += d_i*d_i / eigenValMat->data.fl;  // 마할노비스 거리
+                    distSq += d_i * d_i; // 유클리디안 거리
+                }
+
+                if (distSq < leastDistSq) //더 근접한 값이 있는지 찾음
+                {
+                    leastDistSq = distSq;
+                    iNearest = iTrain;     //몇번째 얼굴인지
+                }
+            }
+            return iNearest;
+        }
+
+        //저장된 학습 데이타 읽어 오기
+        private bool loadTranningData(out CvMat pTrainPersonNumMat)
+        {
+            CvFileNode param;
+
+            using (CvFileStorage fs = new CvFileStorage("facedata.xml", null, FileStorageMode.Read))
+            {
+                pTrainPersonNumMat = null;
+                if (fs == null) return false;
+
+                nEigens = fs.ReadIntByName(null, "nEigens");//고유치
+                nTrainFaces = fs.ReadIntByName(null, "nTrainFaces"); //학습 갯수
+                param = Cv.GetFileNodeByName(fs, null, "trainPersonNumMat");
+                personNumTruthMat = fs.Read<CvMat>(param); //얼굴ID
+
+                param = Cv.GetFileNodeByName(fs, null, "projectedTrainFaceMat");//학습된 값
+                pTrainPersonNumMat = fs.Read<CvMat>(param);
+
+                param = Cv.GetFileNodeByName(fs, null, "avgTrainImg"); //학습한 평균 이미지
+                pAvgTrainImg = fs.Read<IplImage>(param);
+                eigenVectArr = new IplImage[nEigens];
+                for (int i = 0; i < nEigens; i++)
+                {
+                    String varName = String.Format("eigenVect_{0}", i);
+                    param = Cv.GetFileNodeByName(fs, null, varName);
+                    eigenVectArr[i] = fs.Read<IplImage>(param);
+                }
+
+            }
+            int[] faceID = { 1, 2, 4, 5, 1, 2, 4, 5, 1, 2, 4, 5, 1, 2, 4, 5, 1, 2, 4, 5, 1, 2, 4, 5 };//사실은 텍스트 파일에 같이 써야 하지만 분리하기 귀찮아서
+            personNumTruthMat = new CvMat(1, nTrainFaces, MatrixType.S32C1, faceID);//ID 배정
+
+            return true;
+        }
+        #endregion
+    }
+}
